@@ -35,3 +35,17 @@ $ python
 >>> intervene.ipa_mod('superstore')
 >>> 'zuberzdore'
 ```
+
+## Citation
+Please cite the following if using this code:
+
+```
+@misc{srivastava2024were,
+      title={We're Calling an Intervention: Taking a Closer Look at Language Model Adaptation to Different Types of Linguistic Variation}, 
+      author={Aarohi Srivastava and David Chiang},
+      year={2024},
+      eprint={2404.07304},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+```
