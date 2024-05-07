@@ -24,8 +24,8 @@ git clone https://github.com/tatHi/maxmatch_dropout.git
 #### to use multi-value
 follow instructions from [Multi-VALUE](https://github.com/SALT-NLP/multi-value.git)
 ```
-D = MultiDialect()`
-D.convert_sae_to_dialect(sentence)`
+D = MultiDialect()
+D.convert_sae_to_dialect(sentence)
 ```
 
 #### sample execution
